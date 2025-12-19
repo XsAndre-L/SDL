@@ -1,0 +1,10 @@
+{
+  "dependencyConfig": {
+    "name": "sdl",
+    "libPath": "external/sdl",
+    "linkType": "static",
+    "libs": ["sdl"],
+    "version": "3.3.0"
+  },
+  "libraryOptions": {}
+}
